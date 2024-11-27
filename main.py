@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Configurações do app
-GITHUB_REPO = "NIO001/update"
+GITHUB_REPO = "NIO001/Flutter-Counter-Clone"
 VERSION = "1.0.0"
 APP_NAME = "ContadorApp"
 UPDATE_DIR = "/storage/emulated/0/Download"  # Diretório de download no Android
